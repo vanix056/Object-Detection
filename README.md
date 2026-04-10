@@ -37,7 +37,7 @@ The solution is ideal for demonstrating on-device object detection without the o
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vanix056/Object-Detection.git
+git clone https://github.com/MAbdullahWaqar/Object-Detection.git
 cd Object-Detection
 
 # 2. Install dependencies
@@ -131,5 +131,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**vanix056**  
-GitHub: [@vanix056](https://github.com/vanix056)
+**Muhammad Abdullah Waqar**  
+GitHub: [@MAbdullahWaqar](https://github.com/MAbdullahWaqar)
